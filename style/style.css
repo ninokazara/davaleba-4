@@ -1,11 +1,13 @@
 nav{
 	vertical-align: middle;
+	margin-left: 100px;
 }
 ul{
 	display: inline-block;
 }
 li{
 	display: inline-block;
+	margin-right: 10px;
 }
 .logo{
 	width: 100.18px;
@@ -74,4 +76,7 @@ a{
 }
 .bg-color{
 	background: #E6E6E6;
+}
+.footer{
+	margin-top: 50px;
 }
