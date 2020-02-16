@@ -41,5 +41,30 @@ a{
 	width: 270px;
 	height: 210px;
 }
+.left-block-box{
+	display: inline-block;
+	width: 50%;
+	max-width: 570px;
+	background: #F2F2F2;
+}
+.right-block-box{
+	display: inline-block;
+	width: 50%;
+	max-width: 570px;
+	background: #F2F2F2;
+}
+.block-content p{
+	display: inline-block;
+	width: 355px;
+	vertical-align: top;
+}
+.block-content img{
+	display: inline-block;
+	width: 102px;
+	height: 145PX;
+	margin-right: 51px;
+	padding: 20px; 
+}
+
 
 	
