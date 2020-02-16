@@ -1,0 +1,45 @@
+nav{
+	vertical-align: middle;
+}
+ul{
+
+}
+li{
+	display: inline-block;
+}
+
+.logo{
+	width: 100.18px;
+	height: 30.57px;
+	margin-right:0;
+}
+.date{
+	display: block;
+	font-size: 48px;
+    color: #ffff;
+    background: #3D58A6;
+    width: 52px;
+    height: 64px;
+}
+a{
+	text-decoration: none;
+}
+.logo-facebook{
+	width: 14px;
+	height: 30px;
+	border-right-style: solid;
+}
+.box{
+	display: inline-block;
+}
+.text{
+    display: inline-block;
+    width: 929.02px;
+    height: 360px;
+}
+.poto{
+	width: 270px;
+	height: 210px;
+}
+
+	
